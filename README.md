@@ -94,3 +94,11 @@ https://medium.com/@mohitgupta92/custom-failure-handler-for-android-espresso-c8c
 
 How to Rerun Failed Tests in JUnit?
 https://www.swtestacademy.com/rerun-failed-test-junit/
+
+
+Espresso vs Appium(1)
+https://blog.perfecto.io/mobile-application-testing/the-rise-of-espresso-the-fall-of-appium/
+
+
+Espresso vs Appium(2)
+https://stackoverflow.com/questions/35584577/appium-vs-espresso-for-automated-testing-framework
