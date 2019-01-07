@@ -102,3 +102,7 @@ https://blog.perfecto.io/mobile-application-testing/the-rise-of-espresso-the-fal
 
 Espresso vs Appium(2)
 https://stackoverflow.com/questions/35584577/appium-vs-espresso-for-automated-testing-framework
+
+
+ESPRESSO FOR ANDROID: ITS DRAWBACKS AND USE FOR A TEST AUTOMATION ENGINEER
+https://sigma.software/about/media/espresso-android-its-drawbacks-and-use-test-automation-engineer
