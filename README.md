@@ -106,3 +106,9 @@ https://stackoverflow.com/questions/35584577/appium-vs-espresso-for-automated-te
 
 ESPRESSO FOR ANDROID: ITS DRAWBACKS AND USE FOR A TEST AUTOMATION ENGINEER
 https://sigma.software/about/media/espresso-android-its-drawbacks-and-use-test-automation-engineer
+
+
+Espresso tests fail screenshots
+https://stackoverflow.com/questions/38519568/how-to-take-screenshot-at-the-point-where-test-fail-in-espresso
+
+http://www.kevinbrotcke.com/dev/take-screenshot-on-failure-espresso.html
